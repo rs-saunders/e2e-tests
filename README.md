@@ -8,12 +8,12 @@ In the project directory, you can run:
 
 ### `npm test`
 
-Launches the Jest test runner
+Launches the Jest test runner and runs all `*.spec.js` tests in the [spec](./spec) folder.
 
 ### `npm run pretty-quick`
 
-Runs [Prettier](https://prettier.io/) on your changed files
+Runs [Prettier](https://prettier.io/) on your changed files.
 
 ### `npm run eslint`
 
-Runs [ESLint](https://eslint.org/) on the codebase
+Runs [ESLint](https://eslint.org/) on the codebase.
